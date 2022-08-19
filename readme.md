@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samir Wagle 
+- 👋 Hi, I’m @Samir Wagle
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Engineering at Kathmandu University  
 - 💞️ I’m looking to collaborate on Android, Machine Learning, AI, 
