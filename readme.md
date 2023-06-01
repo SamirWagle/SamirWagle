@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Computer Engineering at Kathmandu University  
 - 💞️ I’m looking to collaborate on Android, Machine Learning, AI, 
 - 📫 How to reach me ???  Email me on waglesameer5@gmail.com
-- 🙌 Language Learnt : Python, Kotlin
+- 🙌 Language Learnt : Python, Kotlin MERN stack. 
 - 🔧 Using Tools : Visual Studio Code,  Git GitHub, Android Studio, Figma
-- 🌱 Looking forward to learn: ML, Ai
+- 🌱 Looking forward to learn: ML, AI
 
 
 
