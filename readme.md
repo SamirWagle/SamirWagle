@@ -1,97 +1,30 @@
-- 👋 Hi, I’m @Samir Wagle
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Computer Engineering at Kathmandu University  
-- 💞️ I’m looking to collaborate on Android, Machine Learning, AI, 
-- 📫 How to reach me ???  Email me on waglesameer5@gmail.com
-- 🙌 Language Learnt : Python, Kotlin MERN stack. 
-- 🔧 Using Tools : Visual Studio Code,  Git GitHub, Android Studio, Figma
-- 🌱 Looking forward to learn: ML, AI
+<h1 align="center">Hi 👋, I'm Samir Wagle</h1>
+<h3 align="center">Undergraduate Computer Engineering Student at Kathmandu University. Machine Learning| Python| Web Designing| Android</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samirwagle&label=Profile%20views&color=0e75b6&style=flat" alt="samirwagle" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirwagle" alt="samirwagle" /></a> </p>
 
+- 🔭 I’m currently working on **CommentSense**
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SamirWagle)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SamirWagle)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=SamirWagle&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/SamirWagle/SamirWagle?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <!-- <a href="https://github.com/SamirWagle/SamirWagle/actions">
-   <img alt="github-activity" src="https://github.com/SamirWagle/SamirWagle/workflows/update-gh-activity/badge.svg">
-  </a> -->
+- 👯 I’m looking to collaborate on **Coming Soon.....**
 
-<a href="https://twitter.com/sameerwagle2">
-  <img align="left" alt="Samir's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+- 💬 Ask me about **Python, MongoDB, NodeJs**
 
-<a href="https://github.com/SamirWagle">
-  <img align="left" alt="Samir's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 📫 How to reach me **waglesameer5@gmail.com**
 
-<a href="https://instagram.com/sameer_wagle_/">
-  <img align="left" alt="Sameer's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/sam.wag2/">
-  <img align="left" alt="sameer's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<!-- <a href="https://www.hackerrank.com/SamirWagle/">
-  <img align="left" alt="Reeha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sameer-wagle-349591142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-wagle-349591142" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/samir-wagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samir-wagle" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/blashsameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="blashsameer" height="30" width="40" /></a>
+</p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Glad to see you here! 🤩 &nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samirwagle&show_icons=true&locale=en&layout=compact" alt="samirwagle" /></p>
 
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirwagle&show_icons=true&locale=en" alt="samirwagle" /></p>
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/SamirWagle/SamirWagle/master/gifs/coder.gif" />
-
-
-### Know more about me:
-
-
-<br>
-<br>
-
-![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-
-
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SamirWagle&show_icons=true" /></p>
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirWagle&theme=radical&hide_langs_below=1" /> -->
-
-<p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
-
-
-
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{SamirWagle}/count.svg)
-
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
-
-<img src="https://octodex.github.com/images/momtocat.png" height="160px" width="160px">
-<img src="https://octodex.github.com/images/twenty-percent-cooler-octocat.png" height="160px" width="160px">
-<img src="https://octodex.github.com/images/saritocat.png" height="160px" width="160px">
--->
-
-<h3>🏆 Github Profile Trophy</h3>
-<p align="center">
-<a href="https://github.com/SamirWagle">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SamirWagle&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-  </p>
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamirWagle&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=SamirWagle&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
-
-<!---
-githubhacker45/githubhacker45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirwagle&" alt="samirwagle" /></p>
