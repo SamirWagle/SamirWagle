@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirwagle" alt="samirwagle" /></a> </p>
 
-- 🔭 I’m currently working on **NepSense**
 
-- 🌱 I’m currently learning **Machine Learning Advance, Deep Learning**
+
+- 🌱 I’m currently learning **RUST**
 
 - 👯 I’m looking to collaborate on **ML, AI, Data Science, Web Development**
 
