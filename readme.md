@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently sharpening my **MACHINE LEARNING  BASICS AND NATURAL LANGUAGE PROCESSING**
 
-- 👯 I’m looking to collaborate on **ML, AI, Data Science, Web Development**
+- 👯 I’m looking to collaborate on **ML, AI, Data Science, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamirWagle?tab=repositories](https://github.com/SamirWagle?tab=repositories)
 
