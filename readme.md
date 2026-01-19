@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mr. Sameer Wagle</h1>
-<h3 align="center">Undergraduate Computer Engineering Student at Kathmandu University.</h3>
+<h1 align="center">Hi 👋, I'm  Samir Wagle</h1>
+<h3 align="center">Recently Graduated Computer Engineer fro Kathmandu University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirwagle&label=Profile%20views&color=0e75b6&style=flat" alt="samirwagle" /> </p>
 
@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently working on <a href="nepsaul.samirwagle.com.np"> NEPSAUL </a>.  nepsaul.samirwagle.com.np
+- 🌱 I’m currently working on <a href="https://nepsaul.samirwagle.com.np"> NEPSAUL </a>. <a href="https://nepsaul.samirwagle.com.np"> nepsaul.samirwagle.com.np</a>
 
 - 👯 I’m looking to collaborate on **ML, AI, Data Science, NLP**
 
