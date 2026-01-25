@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samirwagle" alt="samirwagle" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **Nepsaul**
 
@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirwagle&show_icons=true&locale=en" alt="samirwagle" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirwagle&" alt="samirwagle" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</p>
