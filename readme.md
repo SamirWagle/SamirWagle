@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirwagle&show_icons=true&locale=en" alt="samirwagle" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=SamirWagle)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamirWagle)](https://git.io/streak-stats)
