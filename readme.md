@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir Wagle</h1>
-<h3 align="center">Registered Computer Engineer from Kathmandu University Dhulikhe</h3>
+<h3 align="center">Registered Computer Engineer from Kathmandu University Dhulikhel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samirwagle&label=Profile%20views&color=0e75b6&style=flat" alt="samirwagle" /> </p>
 
@@ -38,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirwagle&show_icons=true&locale=en" alt="samirwagle" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=SamirWagle)](https://git.io/streak-stats)</p>
