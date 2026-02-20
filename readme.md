@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Nepsaul**
 
-- 🌱 I’m currently learning **Vibe Coding**
+- 🌱 I’m currently learning **Vibe Coding** and **AGENTC AI**
 
 - 👯 I’m looking to collaborate on **NLP, ML, AI RAG**
 
