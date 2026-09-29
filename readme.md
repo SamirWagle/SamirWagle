@@ -1,40 +1,54 @@
-<h1 align="center">Hi 👋, I'm Samir Wagle</h1>
-<h3 align="center">Registered Computer Engineer from Kathmandu University Dhulikhel</h3>
+# Samir Wagle
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samirwagle&label=Profile%20views&color=0e75b6&style=flat" alt="samirwagle" /> </p>
+Technical AI builder working across low-resource language research, speech,
+automation, and production systems.
 
- 
+I move between research questions and operating software: retrieval evaluation,
+multilingual NLP, speech adaptation, full-stack delivery, service architecture,
+deployment, and incident response. Current goal: build useful AI for languages
+and communities usually treated as edge cases.
 
+## Selected evidence
 
-- 🔭 I’m currently working on **Nepsaul**
+- **[NepSAUL](https://doi.org/10.1109/ICNLP69856.2026.11528061)** — Nepali legal
+  question answering over 10,320 case laws; best retrieval reached 91% Precision@1.
+- **[NEPSE All Scraper](https://github.com/SamirWagle/Nepse-All-Scraper)** — operated
+  public-data pipeline covering 365 listed companies, with scheduled collection,
+  public API documentation, and versioned releases.
+- **[Chatterbox Nepali](https://github.com/SamirWagle/chatterbox-nepali)** — Nepali
+  speech adaptation with Devanagari handling, alignment fixes, training tools,
+  and public model artifacts.
+- **[NepSense](https://aclanthology.org/2024.icon-1.60/)** — peer-reviewed Nepali
+  profanity and offensiveness research published at ICON 2024.
+- **[MEME-Fusion](https://arxiv.org/abs/2604.14218)** — multimodal ablation study
+  for hate detection and sentiment analysis on Nepali memes.
+- **[NECPrep](https://lisensepreparation.samirwagle.com.np/)** — free engineering
+  license-exam preparation product with 1,380+ questions.
 
-- 🌱 I’m currently learning **Vibe Coding** and **AGENTC AI**
+## Production work
 
-- 👯 I’m looking to collaborate on **NLP, ML, AI RAG**
+Recent work spans mobile and web clients, Go and Python services, PostgreSQL,
+Linux operations, container delivery, AI-assisted document workflows, and
+compatibility-safe decomposition of legacy systems. Employer and customer details
+remain private; public portfolio describes only sanitized, evidence-backed scope.
 
-- 👨‍💻 All of my public projects are available at [https://github.com/SamirWagle?tab=repositories](https://github.com/SamirWagle?tab=repositories)
+## Current research direction
 
-- 📝 I regularly write articles on [samirwagle.com.np](samirwagle.com.np)
+- Low-resource NLP and retrieval evaluation
+- Nepali ASR/TTS adaptation and speech datasets
+- RAG systems with measurable grounding
+- AI automation with deterministic controls and human approval
+- Reliable infrastructure for AI and financial software
 
-- 💬 Ask me about **NLP, Low Resource NLP, Deep Learning, FinTech POS Devices,**
+## Working stack
 
-- 📫 How to reach me **waglesameer5@gmail.com**
+`Python` · `Go` · `TypeScript` · `Rust` · `React` · `Next.js` · `Flutter` ·
+`PostgreSQL` · `Docker` · `Linux` · `PyTorch` · `Hugging Face`
 
-- 📄 Know about my experiences [https://www.samirwagle.com.np/resume.pdf](https://www.samirwagle.com.np/resume.pdf)
+## Connect
 
-- ⚡ Fun fact **Researcher by day, full-stack + full-feelings debugger by night 🧠💻❤️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samir-wagle-349591142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samir-wagle-349591142/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sameerwagle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sameerwagle" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samirwagle&show_icons=true&locale=en&layout=compact" alt="samirwagle" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirwagle&show_icons=true&locale=en" alt="samirwagle" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SamirWagle)](https://git.io/streak-stats)
+- Portfolio: [samirwagle.com.np](https://samirwagle.com.np)
+- LinkedIn: [samir-wagle-349591142](https://www.linkedin.com/in/samir-wagle-349591142/)
+- Hugging Face: [waglesameer5](https://huggingface.co/waglesameer5)
+- Kaggle: [sameerwagle](https://www.kaggle.com/sameerwagle)
+- Email: [waglesameer5@gmail.com](mailto:waglesameer5@gmail.com)
