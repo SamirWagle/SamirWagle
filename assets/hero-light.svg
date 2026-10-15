@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Samir Wagle — Systems Architect, Full-Stack AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6fafe"/>
+      <stop offset="55%" stop-color="#e4f0fb"/>
+      <stop offset="100%" stop-color="#cfe6fa"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f7ae0"/>
+      <stop offset="100%" stop-color="#1f7ae0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f7ae0" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#1f7ae0" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#0b3a6b" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="14" fill="url(#grid)"/>
+  <circle cx="1065" cy="105" r="210" fill="url(#glow)"/>
+
+  <!-- signal arcs: planning -> production -->
+  <g fill="none" stroke="#1f7ae0" stroke-linecap="round">
+    <path d="M905 232 C 975 232, 1000 170, 1062 170" stroke-opacity="0.55" stroke-width="2.5"/>
+    <path d="M905 232 C 990 232, 1010 118, 1092 118" stroke-opacity="0.40" stroke-width="2.5"/>
+    <path d="M905 232 C 1005 232, 1020 66,  1122 66"  stroke-opacity="0.26" stroke-width="2.5"/>
+  </g>
+  <circle cx="905" cy="232" r="6.5" fill="#1f7ae0"/>
+  <circle cx="1062" cy="170" r="4.5" fill="#1f7ae0" fill-opacity="0.75"/>
+  <circle cx="1092" cy="118" r="4.5" fill="#1f7ae0" fill-opacity="0.55"/>
+  <circle cx="1122" cy="66"  r="4.5" fill="#1f7ae0" fill-opacity="0.38"/>
+
+  <text x="72" y="118" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="1.5" fill="#07101f">Samir Wagle</text>
+  <rect x="74" y="140" width="250" height="4" rx="2" fill="url(#rule)"/>
+
+  <text x="74" y="182" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="600" letter-spacing="0.6" fill="#1b4a7a">Systems Architect  ·  Full-Stack AI Engineer</text>
+
+  <text x="74" y="236" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#07101f">From whiteboard to production.</text>
+  <text x="74" y="274" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#1f7ae0">Then I keep it alive.</text>
+
+  <text x="74" y="312" font-family="'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" letter-spacing="1.6" fill="#5c7794">TECHNICAL PARTNER FOR TEAMS BUILDING WITH AI  ·  NEPAL</text>
+</svg>
